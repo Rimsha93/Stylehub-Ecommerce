@@ -1,11 +1,11 @@
-StyleHub – Modern eCommerce Landing Page
+**StyleHub – Modern eCommerce Landing Page**
 
 StyleHub is a modern, responsive eCommerce landing page designed using Bootstrap 5.
 The project focuses on clean UI, smooth layout structure, and real-world eCommerce design practices.
 
 This landing page is ideal for showcasing products and can be easily extended into a full eCommerce application.
 
-✨ Features:
+**✨ Features:**
 -Fully responsive design (Mobile, Tablet & Desktop)
 -Modern hero section with call-to-action
 -Clean and professional product cards
@@ -14,12 +14,12 @@ This landing page is ideal for showcasing products and can be easily extended in
 -Easy to customize and scale
 -Beginner-friendly code structure
 
-🛠️ Tech Stack:
+**🛠️ Tech Stack:**
 HTML5
 CSS3
 Bootstrap 5
 
-📂 Project Structure:
+**📂 Project Structure:**
 stylehub-ecommerce/
 │
 ├── index.html
@@ -31,7 +31,7 @@ stylehub-ecommerce/
 │
 └── README.md
 
-🚀 Getting Started
+**🚀 Getting Started**
 (1) Follow these steps to run the project locally:
 (2) Clone the repository:
 git clone https://github.com/your-username/stylehub-ecommerce.git
@@ -40,21 +40,21 @@ cd stylehub-ecommerce
 (4) Open index.html in your browser
 (You can also use Live Server for better experience)
 
-📱 Responsiveness
+**📱 Responsiveness**
 -The website is fully responsive and optimized for:
 -Mobile devices
 -Tablets
 -Laptops & desktops
 -Bootstrap 5 ensures consistent layout behavior across all screen sizes.
 
-🎯 Purpose of This Project
+**🎯 Purpose of This Project**
 -This project was created to:
 -Practice modern UI design using Bootstrap 5
 -Improve front-end layout and responsiveness skills
 -Build a portfolio-ready eCommerce landing page
 -Serve as a base for future Laravel eCommerce integration
 
-🔮 Future Improvements
+**🔮 Future Improvements**
 -Convert static data into dynamic content
 -Integrate backend using Laravel
 -Add authentication (Login / Register)
@@ -62,7 +62,7 @@ cd stylehub-ecommerce
 -Connect with database (MySQL)
 -Improve accessibility and performance
 
-🤝 Contributing
+**🤝 Contributing**
 Contributions, suggestions, and improvements are always welcome!
 Feel free to fork the repository and submit a pull request.
 
